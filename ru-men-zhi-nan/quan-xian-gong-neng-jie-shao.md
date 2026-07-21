@@ -12,7 +12,7 @@ description: 本頁面將介紹各個模組的權限功能說明。
 
 <figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
-<table data-full-width="true"><thead><tr><th width="183">角色</th><th>Agent 清單管理員</th><th>Agent 清單協作者</th><th>Agent 清單使用者</th></tr></thead><tbody><tr><td><strong>說明</strong></td><td>可操作 Agent 清單與 Agent 全部功能的角色</td><td>被賦予權限協助管理 Agent 清單成員的角色</td><td>可建立與編輯屬於自己的 Agent 的角色</td></tr><tr><td><strong>建立 Agent</strong></td><td>O</td><td>O</td><td>O</td></tr><tr><td><strong>管理 Agent 清單成員</strong></td><td>O</td><td>O</td><td>X</td></tr><tr><td><strong>檢視所有 Agent</strong></td><td>O</td><td>X</td><td>X</td></tr><tr><td><strong>編輯所有 Agent</strong></td><td>O</td><td>X</td><td>X</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>角色</th><th>Agent 清單管理員</th><th>Agent 清單使用者</th></tr></thead><tbody><tr><td><strong>說明</strong></td><td>可操作 Agent 清單與 Agent 全部功能的角色</td><td>可建立與編輯屬於自己的 Agent 的角色</td></tr><tr><td><strong>建立 Agent</strong></td><td>O</td><td>O</td></tr><tr><td><strong>管理 Agent 清單成員</strong></td><td>O</td><td>X</td></tr><tr><td><strong>檢視所有 Agent</strong></td><td>O</td><td>X</td></tr><tr><td><strong>編輯所有 Agent</strong></td><td>O</td><td>X</td></tr></tbody></table>
 
 ### Agent
 
@@ -20,7 +20,7 @@ description: 本頁面將介紹各個模組的權限功能說明。
 
 <figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
-<table data-full-width="true"><thead><tr><th>角色</th><th>Agent 管理員</th><th>Agent 協作者</th><th>Agent 使用者</th></tr></thead><tbody><tr><td><strong>說明</strong></td><td>擁有完整的 Agent 控制權</td><td>可協助管理 Agent 的使用與內容調整</td><td>僅能在工作空間使用 Agent 的角色</td></tr><tr><td><strong>在工作空間使用 Agent</strong></td><td>O</td><td>O</td><td>O</td></tr><tr><td><strong>在 Agent 清單檢視 Agent</strong></td><td>O</td><td>O</td><td>X</td></tr><tr><td><strong>管理 Agent 成員</strong></td><td>O</td><td>O</td><td>X</td></tr><tr><td><strong>編輯 Agent</strong></td><td>O</td><td>O</td><td>X</td></tr><tr><td><strong>刪除 Agent</strong></td><td>O</td><td>X</td><td>X</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>角色</th><th>Agent 擁有者</th><th>Agent 編輯者</th><th>Agent 使用者</th></tr></thead><tbody><tr><td><strong>說明</strong></td><td>擁有完整的 Agent 控制權</td><td>可協助管理 Agent 的使用與內容調整</td><td>僅能在工作空間使用 Agent 的角色</td></tr><tr><td><strong>在工作空間使用 Agent</strong></td><td>O</td><td>O</td><td>O</td></tr><tr><td><strong>在 Agent 清單檢視 Agent</strong></td><td>O</td><td>O</td><td>X</td></tr><tr><td><strong>管理 Agent 成員</strong></td><td>O</td><td>O</td><td>X</td></tr><tr><td><strong>編輯 Agent</strong></td><td>O</td><td>O</td><td>X</td></tr><tr><td><strong>刪除 Agent</strong></td><td>O</td><td>X</td><td>X</td></tr></tbody></table>
 
 ## 知識庫**模組**權限
 
