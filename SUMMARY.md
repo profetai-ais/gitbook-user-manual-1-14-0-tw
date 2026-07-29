@@ -29,6 +29,7 @@
 * [編輯工作流程](agent-zhi-nan/bian-ji-gong-zuo-liu-cheng.md)
 * [工作流程節點](agent-zhi-nan/gong-zuo-liu-cheng-jie-dian.md)
 * [工作流程節點設定](agent-zhi-nan/gong-zuo-liu-cheng-jie-dian-she-ding.md)
+* [Agent API 整合](agent-zhi-nan/agent-api-zheng-he.md)
 
 ## 知識庫指南
 
@@ -39,6 +40,7 @@
 ## 排程指南
 
 * [排程](pai-cheng-zhi-nan/pai-cheng.md)
+* [Webhook 介接指南](pai-cheng-zhi-nan/webhook-jie-jie-zhi-nan.md)
 
 ## 能力指南
 

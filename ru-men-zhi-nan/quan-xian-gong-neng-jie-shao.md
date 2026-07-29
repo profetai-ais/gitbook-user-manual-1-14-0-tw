@@ -16,7 +16,7 @@ description: 本頁面將介紹各個模組的權限功能說明。
 
 ### Agent
 
-以下表格描述的是「Agent」層級可以做的事情。這一層通常由「Agent 管理員」或「Agent 協作者」負責管理成員，將適合的權限分配給協作者或使用者。
+以下表格描述的是「Agent」層級可以做的事情。這一層通常由「Agent 管理員」或「Agent 編輯者」負責管理成員，將適合的權限分配給編輯者或使用者。
 
 <figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ description: 本頁面將介紹各個模組的權限功能說明。
 
 ### 知識
 
-以下表格描述的是「知識」層級可以做的事情。這一層通常由「知識管理員」或「知識協作者」負責管理成員，將適合的權限分配給協作者或使用者。
+以下表格描述的是「知識」層級可以做的事情。這一層通常由「知識管理員」或「知識編輯者」負責管理成員，將適合的權限分配給編輯者或使用者。
 
 <figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ description: 本頁面將介紹各個模組的權限功能說明。
 
 ### **技能**
 
-以下表格描述的是「MCP」層級可以做的事情。這一層通常由「MCP 管理員」或「MCP 協作者」負責管理成員，將適合的權限分配給協作者或使用者。
+以下表格描述的是「MCP」層級可以做的事情。這一層通常由「MCP 管理員」或「MCP 編輯者」負責管理成員，將適合的權限分配給編輯者或使用者。
 
 <figure><img src="../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
 
@@ -80,7 +80,7 @@ description: 本頁面將介紹各個模組的權限功能說明。
 
 ### **MCP**
 
-以下表格描述的是「MCP」層級可以做的事情。這一層通常由「MCP 管理員」或「MCP 協作者」負責管理成員，將適合的權限分配給協作者或使用者。
+以下表格描述的是「MCP」層級可以做的事情。這一層通常由「MCP 管理員」或「MCP 編輯者」負責管理成員，將適合的權限分配給編輯者或使用者。
 
 <figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
@@ -106,7 +106,7 @@ description: 本頁面將介紹各個模組的權限功能說明。
 
 ### 工作流程模板
 
-以下表格描述的是「工作流程模板」層級可以做的事情。這一層通常由「工作流程模板管理員」或「工作流程模板協作者」負責管理成員，將適合的權限分配給協作者或使用者。
+以下表格描述的是「工作流程模板」層級可以做的事情。這一層通常由「工作流程模板管理員」或「工作流程模板編輯者」負責管理成員，將適合的權限分配給編輯者或使用者。
 
 <figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
@@ -124,7 +124,7 @@ description: 本頁面將介紹各個模組的權限功能說明。
 
 ### 提示詞模板
 
-以下表格描述的是「提示詞模板」層級可以做的事情。這一層通常由「提示詞模板管理員」或「提示詞模板協作者」負責管理成員，將適合的權限分配給協作者或使用者。
+以下表格描述的是「提示詞模板」層級可以做的事情。這一層通常由「提示詞模板管理員」或「提示詞模板編輯者」負責管理成員，將適合的權限分配給編輯者或使用者。
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
@@ -138,9 +138,9 @@ description: 本頁面將介紹各個模組的權限功能說明。
 
 ### **模型**
 
-以下表格描述的是「模型」層級可以做的事情。這一層通常由「模型管理員」負責管理成員，將適合的權限分配給協作者或使用者。
+以下表格描述的是「模型」層級可以做的事情。這一層通常由「模型管理員」負責管理成員，將適合的權限分配給編輯者或使用者。
 
 <figure><img src="../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
-<table data-full-width="true"><thead><tr><th>角色</th><th>模型協作者</th><th>模型使用者</th></tr></thead><tbody><tr><td><strong>說明</strong></td><td>可以從模型清單中存取模型並使用模型的角色</td><td>僅能讀取模型的角色</td></tr><tr><td><strong>在工作空間中問答使用模型的 Agent</strong></td><td>O</td><td>O</td></tr><tr><td><strong>可在模型清單中選取模型</strong></td><td>O</td><td>X</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>角色</th><th>模型編輯者</th><th>模型使用者</th></tr></thead><tbody><tr><td><strong>說明</strong></td><td>可以從模型清單中存取模型並使用模型的角色</td><td>僅能讀取模型的角色</td></tr><tr><td><strong>在工作空間中問答使用模型的 Agent</strong></td><td>O</td><td>O</td></tr><tr><td><strong>可在模型清單中選取模型</strong></td><td>O</td><td>X</td></tr></tbody></table>
 
