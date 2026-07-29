@@ -6,7 +6,7 @@ description: 管理員可以建立與調整使用配額方案，以管理每位�
 
 ## 配額計畫
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="80">項目</th><th width="170">名稱</th><th>說明</th></tr></thead><tbody><tr><td>1</td><td>名稱</td><td>配額方案的顯示名稱（例如： <code>default</code>, <code>VVIP</code>, <code>Plan VIP</code>）。</td></tr><tr><td>2</td><td>用量重置週期</td><td>配額重置的頻率（例如：每天、每週、每小時）。</td></tr><tr><td>3</td><td>費用限制(USD)</td><td>每個重置週期內允許的最高花費（以美元計算）。<code>-1</code> 代表無限制。</td></tr><tr><td>4</td><td>建立者</td><td>建立此方案的管理員名稱。</td></tr><tr><td>5</td><td>修改日期</td><td>配額方案的修改時間。</td></tr><tr><td>6</td><td>描述</td><td>配額方案用途的內部註解或說明。</td></tr><tr><td>7</td><td>動作</td><td>編輯或刪除此方案的按鈕。</td></tr></tbody></table>
 
@@ -14,7 +14,7 @@ description: 管理員可以建立與調整使用配額方案，以管理每位�
 
 管理員可透過設定名稱、描述、費用上限與重置週期等參數，建立新的使用配額方案。這些方案會依照此處設定的限制，控制使用者消耗付費資源（例如 API token、模型使用次數）的頻率。
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 

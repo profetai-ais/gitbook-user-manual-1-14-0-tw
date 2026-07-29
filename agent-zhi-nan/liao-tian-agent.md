@@ -85,7 +85,7 @@ description: 聊天 Agent 可讓使用者直接與大型語言模型互動，適
 
 ### **推論參數**
 
-設定包括兩個分頁：「**參數**」和「**系統提示詞**」。
+設定包括兩個分頁：「**參數**」和「**指令**」。
 
 #### **參數**
 
@@ -101,7 +101,7 @@ description: 聊天 Agent 可讓使用者直接與大型語言模型互動，適
 
 <figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
-* **使用範本新增提示詞**
+**1-1 使用範本新增提示詞**
 
 使用者能從模板快速添加所需的應用模板。
 
@@ -114,7 +114,9 @@ description: 聊天 Agent 可讓使用者直接與大型語言模型互動，適
 3. 產生對應的模板，新增的模板會以反選的方式產生，可再根據自身的需求編輯模板。
 4. 點擊「儲存 」按鈕，完成編輯。
 
-* **輸入需求產生提示詞**
+
+
+**1-2 輸入需求產生提示詞**
 
 提示詞生成功能支援「改寫既有內容」或「從空白生成」，上方紅色框可選填作為改寫基礎，下方綠色輸入框填寫生成指引即可產出結果。
 
@@ -127,6 +129,26 @@ description: 聊天 Agent 可讓使用者直接與大型語言模型互動，適
 3. 完成自動生成，可再根據自身需求編輯。
 4. 點擊「儲存 」按鈕，完成編輯。
 
+
+
+**1-3 復原先前的指令**
+
+<figure><img src="../.gitbook/assets/image (449).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (451).png" alt=""><figcaption></figcaption></figure>
+
+1. 點擊指令中的「版本」
+2. 選擇要復原的指令，並點下「復原」
+3. 點擊儲存，完成設定
+
+
+
+**1-3-1 版本保留機制**
+
+指令內的版本紀錄目前沒有儲存的上限。
+
 ### 知識庫
 
 #### 知識庫來源
@@ -134,6 +156,8 @@ description: 聊天 Agent 可讓使用者直接與大型語言模型互動，適
 <figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
 #### 知識庫參數
+
+詳情請見 [知識庫參數說](../zhi-shi-ku-zhi-nan/zhi-shi-ku-can-shu-shuo-ming.md)。
 
 <figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 

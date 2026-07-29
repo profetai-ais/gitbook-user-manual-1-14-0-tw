@@ -35,6 +35,7 @@
 
 * [知識庫概要](zhi-shi-ku-zhi-nan/zhi-shi-ku-gai-yao.md)
 * [管理知識庫](zhi-shi-ku-zhi-nan/guan-li-zhi-shi-ku.md)
+* [知識庫參數說明](zhi-shi-ku-zhi-nan/zhi-shi-ku-can-shu-shuo-ming.md)
 * [管理知識](zhi-shi-ku-zhi-nan/guan-li-zhi-shi.md)
 
 ## 排程指南

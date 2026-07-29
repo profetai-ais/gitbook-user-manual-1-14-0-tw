@@ -8,24 +8,22 @@
 
 ## 手動新增技能
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 到 技能的分頁
 2. 點擊 新增 ，選擇創建
 3. 選擇分類的群組，亦可點及右邊+號新增群組
 4. 左側為清單目錄，第一次新建技能時預設有一組不能刪除的資料夾和Skill.md，但可再另外新增資料夾以及檔案，新增的方式可參考[新增資料夾或檔案](ji-neng.md#xin-zeng-zi-liao-jia-huo-dang-an)
 5. 依照格式填入檔案內容
-6. 可點擊發布，完成建立
-
-> 請注意 : 儲存不等於將內容發布到線上使用
+6. 點擊建立
 
 ### 匯入檔案
 
 點擊左側清單上方的匯入檔案按鈕，並選擇要匯入的類型，分別有匯入檔案及匯入目錄。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 新增資料夾 / 檔案
 
@@ -33,7 +31,7 @@
 
 > 注意 : 新增檔案時需要另外新增副檔名，例如 : readme.md。
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -41,13 +39,13 @@
 
 將滑鼠懸停在準備編輯或刪除的資料上，右側出現會出現功能按鈕，使用者能根據需求做點擊使用
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 匯入技能
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 到 技能的分頁
 2. 點擊 新增 ，選擇匯入技能
@@ -150,15 +148,15 @@ SkillsMP API 會依據是否使用 API Key，套用不同的請求限制：
 >
 > 系統設定 → 配置 → 技能掃描設定
 
-## 版本歷史
+## 版本紀錄
 
-AI Studio 會保留技能的版本歷史，方便使用者查看過去的技能內容，並在需要時將技能還原至指定版本。使用者可在技能清單中點選技能名稱進入詳細頁面，點選後即可開啟該技能的內頁。
+AI Studio 會保留技能的版本紀錄，方便使用者查看過去的技能內容，並在需要時將技能還原至指定版本。使用者可在技能清單中點選技能名稱進入詳細頁面，點選後即可開啟該技能的內頁。
 
-### 查看版本歷史
+### 查看版本紀錄
 
 <figure><img src="../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
 
-點選右上角歷史紀錄可開啟版本歷史視窗。使用者可以查看此 Skill 的歷史版本。右側會顯示各版本的版本號、建立時間與建立者資訊；點選任一版本後，中央區域會顯示該版本的 Skill 內容預覽。
+點選右上角歷史紀錄可開啟版本紀錄視窗。使用者可以查看此 Skill 的版本紀錄。右側會顯示各版本的版本號、建立時間與建立者資訊；點選任一版本後，中央區域會顯示該版本的 Skill 內容預覽。
 
 ### 還原版本
 
@@ -167,6 +165,16 @@ AI Studio 會保留技能的版本歷史，方便使用者查看過去的技能�
 若需要將技能還原至過去版本，可在視窗中選擇要還原的版本，確認內容後點選**還原**。還原後，系統會將目前技能內容更新為所選版本的內容。建議在還原前先確認版本內容是否正確，以避免覆蓋目前的編輯結果。
 
 > 注意 : 還原版本會影響目前技能的內容，執行前請先確認選取的版本與內容是否符合需求。若多人共同維護同一個技能，建議在還原前先與相關維護者確認。
+
+### 版本保留機制
+
+每個技能最多可保留 **20** 筆版本紀錄。
+
+當建立第 **21** 個版本時，系統會自動刪除**最舊**的版本，並保留最新的 20 筆版本紀錄。
+
+**範例：**
+
+若目前已有 **Version 1** 至 **Version 20** 共 20 筆版本紀錄，當您建立 **Version 21** 時，系統會自動刪除 **Version 1**，最終保留 **Version 2** 至 **Version 21**。
 
 ## 使用技能
 
