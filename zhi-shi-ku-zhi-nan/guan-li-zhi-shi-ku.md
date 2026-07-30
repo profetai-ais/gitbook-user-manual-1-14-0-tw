@@ -34,7 +34,7 @@
 
 ### **匯入知識**
 
-<figure><img src="../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,13 +42,12 @@
 
 <figure><img src="../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
-1. 到知識庫分頁
-2. 點擊右上角更多按鈕，選擇匯入檔案
-3. 在嵌入模型選擇模型後，點選測試按鈕測是模型是否可正常使用
+1. 到知識庫分頁，點擊添加按鈕，選擇「從裝置」
+2. 在嵌入模型選擇模型後，點選測試按鈕測是模型是否可正常使用
    1. 這是用於建立知識庫索引的模型。匯入知識後，系統會使用此模型將知識庫內容重新建立索引，供後續檢索與 Agent 回答時使用
-4. 若測試成功，系統會顯示成功訊息；若測試失敗，請改選其他可用模型，或確認該模型是否已正確設定、是否具備使用權限，以及模型服務是否可正常連線。確認後，點擊關閉按鈕關閉視窗
-5. 選擇匯入的檔案
-6. 點擊匯入按鈕，完成匯入
+3. 若測試成功，系統會顯示成功訊息；若測試失敗，請改選其他可用模型，或確認該模型是否已正確設定、是否具備使用權限，以及模型服務是否可正常連線。確認後，點擊關閉按鈕關閉視窗
+4. 選擇匯入的檔案
+5. 點擊匯入按鈕，完成匯入
 
 > 注意 : 必須先測試模型，測試成功後才可進行下一步的匯入操作。
 

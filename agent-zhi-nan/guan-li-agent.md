@@ -38,14 +38,13 @@
 
 ### 匯入 Agent
 
-<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
 
-1. 點擊畫面靠左上方的 「 … ( 更多 ) 」按鈕
-2. 選擇「匯入檔案」
-3. 點擊欄位選擇匯入的檔案
-4. 點擊「確定」匯入指定的檔案
+1. 點擊添加按鈕，選擇「從裝置」
+2. 點擊欄位選擇匯入的檔案
+3. 點擊「確定」匯入指定的檔案
 
 ## 權限
 

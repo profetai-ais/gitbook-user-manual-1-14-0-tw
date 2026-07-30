@@ -10,15 +10,13 @@
 
 > 流程的編輯操作 請見 [編輯工作流程](../agent-zhi-nan/bian-ji-gong-zuo-liu-cheng.md) 中的說明
 
-## **建立新模板的方式**
+## **建立新模板**
 
-#### **全新模板**
+<figure><img src="../.gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
 
-此選項將建立一個空白的流程模板。
+<figure><img src="../.gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
-
-1. 點擊右上角 "新增" 新增按鈕
+1. 點擊右上角「添加」按鈕，選擇「模板」
 2. 「名稱」欄位中輸入知識名稱後點擊右側按鈕建立多語言標籤，請參閱 [多國語言設定](gong-zuo-liu-cheng-mu-ban-guan-li.md#duo-guo-yu-yan-she-ding)
 3. 「描述」欄位中輸入知識描述後點擊右側按鈕建立多語言標籤，請參閱 [多國語言設定](gong-zuo-liu-cheng-mu-ban-guan-li.md#duo-guo-yu-yan-she-ding)
 4. 點選 "確定" 按鈕完成新增，新建立的流程將出現於模板列表中，點擊名稱可開啟編輯畫面
@@ -32,21 +30,13 @@
 
 > 注意：「模型」選單中的大語言模型選項請依實際安裝環境的配置為主，說明文件內呈現的選項僅供參考。
 
-#### **從模板複製**
+## **匯入模板**
 
-此選項讓使用者複製一個既有的工作流程模板到新的流程中編輯。
+<figure><img src="../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
-
-1. 從模板列表中選擇要複製的模板
-2. 點擊複製按鈕
-3. 新建立的流程將出現於模板列表中
-
-#### **匯入模板**
+<figure><img src="../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
 
 此選項讓使用者從檔案匯入一個工作流程模板到新的流程中編輯。
-
-<figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
 1. 點擊右上方更多按鈕，選擇匯入檔案
 2. 點擊 "檔案上傳區" 選擇要匯入的模板檔案 (副檔名為 `.pwflow` 的檔案)

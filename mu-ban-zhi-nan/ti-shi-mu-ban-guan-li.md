@@ -8,18 +8,18 @@
 
 ## **新增提示模板**
 
-<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (469).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
 
 1. 點選「新增」顯示建立提示詞模板視窗
 2. 選擇提示模板類型
 3. 「名稱」欄位中輸入知識名稱後點擊右側按鈕建立多語言標籤，請參閱 [多國語言設定](ti-shi-mu-ban-guan-li.md#duo-guo-yu-yan-she-ding)
 4. 「描述」欄位中輸入知識描述後點擊右側按鈕建立多語言標籤，請參閱 [多國語言設定](ti-shi-mu-ban-guan-li.md#duo-guo-yu-yan-she-ding)
 5. 建立「字段」
-6. 在「提示詞設置」分頁中設置提示詞
+6. 設置提示詞
 7. 點擊 「確定」 完成新增
 
 ### 多國語言設定
@@ -47,6 +47,16 @@ _字段_ 可視為提示詞中的變數，讓使用者依實際場景提供提�
 * **列表：** 建立可讓使用者選擇的選項。
 * **數字：** 數值的輸入欄位，可設定最大/最小值。
 * **檔案上傳：**&#x5EFA;立可以讓使用者上傳檔案的欄位。
+
+## 上傳提示詞模板
+
+<figure><img src="../.gitbook/assets/image (471).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
+
+1. 點擊「添加」，選擇「從裝置」
+2. 上傳檔案
+3. 點擊「上傳」
 
 ## 權限
 

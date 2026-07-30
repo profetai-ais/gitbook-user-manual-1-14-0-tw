@@ -276,6 +276,18 @@ description: 聊天 Agent 可讓使用者直接與大型語言模型互動，適
 
 <figure><img src="../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
 
+#### **對話顯示**
+
+<figure><img src="../.gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
+
+**人工互動**
+
+開啟後，當 Agent 需要使用者參與決策、確認操作或提供額外資訊時，會於回覆下方顯示互動卡片（Action Card）。使用者可依需求完成互動，或略過卡片繼續對話。
+
+**執行過程**
+
+開啟後，Agent 每次回覆時都會顯示執行過程，包括思考流程、工具執行、關鍵步驟及執行狀態，協助了解 Agent 如何完成本次任務。
+
 ## **調適預覽**
 
 使用此區塊測試 Agent 回覆並據此調整設定。
@@ -299,60 +311,6 @@ description: 聊天 Agent 可讓使用者直接與大型語言模型互動，適
 <figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 > 請注意 : 在調適預覽上傳或產生的檔案僅保留 30 分鐘。
-
-## 記憶
-
-記憶功能可協助使用者為 Agent 建立可重複使用的記憶內容，使 Agent 在執行任務或回應問題時，能參考預先設定的背景資訊、使用情境與處理流程。
-
-使用者可在 Agent 的記憶頁面中查看已建立的記憶清單，並透過啟用狀態、名稱、描述與使用情境，快速辨識各記憶的用途。記憶可用於保存特定任務流程、判斷規則、前置條件、操作步驟或注意事項，協助 Agent 在後續互動中維持一致的處理邏輯。
-
-<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
-
-### 建立記憶
-
-<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
-
-1. 進入 Agent 頁面。點選左側子選單中的「記憶」。
-2. 點選右上角「建立」按鈕。
-3. 填寫記憶基本資訊：
-   * 名稱：輸入記憶名稱。
-   * 描述：輸入記憶說明。
-   * 適用情境：輸入此記憶適用的使用情境。
-   * 內容：輸入詳細內容，可使用 Markdown 格式編排。
-4. 確認內容無誤後，點選「建立」完成建立。
-
-### 查看記憶詳細內容
-
-<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
-
-1. 進入記憶清單。
-2. 點選欲查看的記憶名稱。
-3. 系統會於右側開啟詳細內容面板。
-4. 使用者可查看記憶的名稱、啟用狀態、描述、使用情境與完整內容。若內容較長，可於右側面板中上下捲動查看。
-
-### 啟用與停用記憶
-
-#### 記憶啟用規則
-
-記憶功能包含整體功能開關與單筆記憶啟用狀態。
-
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
-
-若開關為開啟，代表此 Agent 可使用記憶功能。使用者仍可於記憶清單中個別啟用或停用不同記憶。
-
-若開關為關閉，代表此 Agent 不使用記憶功能。即使記憶清單中仍有已建立的記憶，Agent 也不會套用這些記憶內容。
-
-#### 單筆記憶的啟用與停用
-
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
-
-在記憶清單中，「啟用」欄位用於顯示單筆記憶是否啟用。當記憶總開關已開啟時，啟用中的單筆記憶才會作為 Agent 回應或任務處理時的參考內容。
-
-使用者可依需求停用暫時不使用的記憶，保留內容但不讓 Agent 套用；若日後需要再次使用，可重新啟用。
 
 ## **會話日誌**
 

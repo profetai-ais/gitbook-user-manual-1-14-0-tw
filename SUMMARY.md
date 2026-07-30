@@ -25,6 +25,7 @@
 * [Agent 概要](agent-zhi-nan/agent-gai-yao.md)
 * [管理 Agent](agent-zhi-nan/guan-li-agent.md)
 * [聊天 Agent](agent-zhi-nan/liao-tian-agent.md)
+* [Agent 記憶](agent-zhi-nan/agent-ji-yi.md)
 * [工作流程 Agent](agent-zhi-nan/gong-zuo-liu-cheng-agent.md)
 * [編輯工作流程](agent-zhi-nan/bian-ji-gong-zuo-liu-cheng.md)
 * [工作流程節點](agent-zhi-nan/gong-zuo-liu-cheng-jie-dian.md)
